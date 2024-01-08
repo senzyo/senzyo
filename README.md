@@ -1,0 +1,3 @@
+![GitHub Stats](https://gh-stats.senzyo.net/api?username=senzyo&hide_title=true&include_all_commits=true&show_icons=true&rank_icon=percentile&bg_color=DEG,fbc8d4,9795f0&icon_color=9795f0&ring_color=ffffff&text_color=ffffff&border_radius=10&hide_border=true)
+
+![Top Languages](https://gh-stats.senzyo.net/api/top-langs/?username=senzyo&hide_title=true&langs_count=20&layout=compact&bg_color=DEG,9795f0,fbc8d4&text_color=ffffff&border_radius=10&hide_border=true)
